@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Ejemplo 6 Android - Xamarin</string>
+
+  <string name="message_not_net_connection">No estas conectado a internet</string>
+  <string name="message_error_connection_to_server">No fue posible conectarse al servidor, por favor intenta más tarde</string>
+  <string name="message_error_on_server">Ocurrió un error en el servidor, por favor intenta más tarde</string>
+  
+	<string name="message_title">Atención</string>
+  <string name="message_generic_title">Atención</string>
+  <string name="text_button_ok">OK</string>
+  <string name="text_button_cancel">Cancelar</string>
+  <string name="btn_ok_text">OK</string>
+  
+</resources>
